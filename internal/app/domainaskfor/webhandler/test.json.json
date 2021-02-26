@@ -1,0 +1,977 @@
+{
+  "meta": {
+    "id": "word",
+    "uuid": "4fc09b7b-0577-4d4c-ae27-1037d899b253",
+    "src": "coll_thes",
+    "section": "alpha",
+    "target": {
+      "tuuid": "5797b71b-4c8a-4d3d-8232-30986bc15da9",
+      "tsrc": "collegiate"
+    },
+    "stems": [
+      "word",
+      "good word",
+      "in so many words",
+      "of few words",
+      "of one's word",
+      "upon my word",
+      "words"
+    ],
+    "syns": [
+      [
+        "expression",
+        "term"
+      ],
+      [
+        "statement",
+        "utterance"
+      ],
+      [
+        "411",
+        "advice(s)",
+        "gen",
+        "info",
+        "information",
+        "intelligence",
+        "item",
+        "news",
+        "story",
+        "tidings",
+        "uncos"
+      ],
+      [
+        "oath",
+        "pledge",
+        "promise",
+        "troth",
+        "vow"
+      ],
+      [
+        "behest",
+        "charge",
+        "command",
+        "commandment",
+        "decree",
+        "dictate",
+        "direction",
+        "directive",
+        "do",
+        "edict",
+        "imperative",
+        "injunction",
+        "instruction",
+        "order"
+      ],
+      [
+        "buzz",
+        "dish",
+        "gossip",
+        "hearsay",
+        "noise",
+        "report",
+        "rumor",
+        "scuttlebutt",
+        "talk",
+        "tattle"
+      ],
+      [
+        "countersign",
+        "password",
+        "watchword"
+      ],
+      [
+        "adage",
+        "aphorism",
+        "apothegm",
+        "byword",
+        "epigram",
+        "maxim",
+        "proverb",
+        "saw",
+        "saying",
+        "sententia"
+      ]
+    ],
+    "ants": [],
+    "offensive": false
+  },
+  "hwi": {
+    "hw": "word"
+  },
+  "fl": "noun",
+  "def": [
+    {
+      "sseq": [
+        [
+          [
+            "sense",
+            {
+              "sn": "1",
+              "dt": [
+                [
+                  "text",
+                  "a pronounceable series of letters having a distinct meaning especially in a particular field "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "my doctor used all of these medical {it}words{/it} that I didn't understand"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "expression"
+                  },
+                  {
+                    "wd": "term"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "linguistic form"
+                  },
+                  {
+                    "wd": "monosyllable"
+                  },
+                  {
+                    "wd": "morpheme"
+                  },
+                  {
+                    "wd": "speech form"
+                  }
+                ],
+                [
+                  {
+                    "wd": "polysyllable"
+                  }
+                ],
+                [
+                  {
+                    "wd": "collocation"
+                  },
+                  {
+                    "wd": "idiom"
+                  },
+                  {
+                    "wd": "locution"
+                  },
+                  {
+                    "wd": "phrase"
+                  }
+                ],
+                [
+                  {
+                    "wd": "archaism"
+                  },
+                  {
+                    "wd": "coinage"
+                  },
+                  {
+                    "wd": "colloquialism"
+                  },
+                  {
+                    "wd": "euphemism"
+                  },
+                  {
+                    "wd": "loanword"
+                  },
+                  {
+                    "wd": "modernism"
+                  },
+                  {
+                    "wd": "neologism"
+                  },
+                  {
+                    "wd": "vernacularism"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "2",
+              "dt": [
+                [
+                  "text",
+                  "something that is said "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "people who believe that the Bible is the literal {it}word{/it} of God"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "statement"
+                  },
+                  {
+                    "wd": "utterance"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "communication"
+                  },
+                  {
+                    "wd": "message"
+                  }
+                ],
+                [
+                  {
+                    "wd": "announcement"
+                  },
+                  {
+                    "wd": "declamation"
+                  },
+                  {
+                    "wd": "declaration"
+                  },
+                  {
+                    "wd": "manifesto"
+                  },
+                  {
+                    "wd": "proclamation"
+                  },
+                  {
+                    "wd": "pronouncement"
+                  }
+                ],
+                [
+                  {
+                    "wd": "verbalization"
+                  },
+                  {
+                    "wd": "vocalization"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "3",
+              "dt": [
+                [
+                  "text",
+                  "a report of recent events or facts not previously known "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "what's the latest {it}word{/it} on the airplane crash?"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "411",
+                    "wsls": [
+                      "slang"
+                    ]
+                  },
+                  {
+                    "wd": "advice(s)"
+                  },
+                  {
+                    "wd": "gen",
+                    "wsls": [
+                      "chiefly British"
+                    ]
+                  },
+                  {
+                    "wd": "info"
+                  },
+                  {
+                    "wd": "information"
+                  },
+                  {
+                    "wd": "intelligence"
+                  },
+                  {
+                    "wd": "item"
+                  },
+                  {
+                    "wd": "news"
+                  },
+                  {
+                    "wd": "story"
+                  },
+                  {
+                    "wd": "tidings"
+                  },
+                  {
+                    "wd": "uncos",
+                    "wsls": [
+                      "chiefly Scottish"
+                    ]
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "announcement"
+                  },
+                  {
+                    "wd": "bulletin"
+                  },
+                  {
+                    "wd": "communication"
+                  },
+                  {
+                    "wd": "correspondence"
+                  },
+                  {
+                    "wd": "dispatch"
+                  },
+                  {
+                    "wd": "message"
+                  },
+                  {
+                    "wd": "reportage"
+                  }
+                ],
+                [
+                  {
+                    "wd": "dope"
+                  },
+                  {
+                    "wd": "lowdown"
+                  },
+                  {
+                    "wd": "scoop"
+                  },
+                  {
+                    "wd": "tidbit",
+                    "wvrs": [
+                      {
+                        "wvl": "also",
+                        "wva": "titbit"
+                      }
+                    ]
+                  },
+                  {
+                    "wd": "tip"
+                  }
+                ],
+                [
+                  {
+                    "wd": "gossip"
+                  },
+                  {
+                    "wd": "rumor"
+                  },
+                  {
+                    "wd": "tale"
+                  },
+                  {
+                    "wd": "tattle"
+                  }
+                ],
+                [
+                  {
+                    "wd": "feedback"
+                  }
+                ],
+                [
+                  {
+                    "wd": "disinformation"
+                  },
+                  {
+                    "wd": "propaganda"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "4",
+              "dt": [
+                [
+                  "text",
+                  "a person's solemn declaration that he or she will do or not do something "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "I give you my {it}word{/it} that I won't try to escape"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "oath"
+                  },
+                  {
+                    "wd": "pledge"
+                  },
+                  {
+                    "wd": "promise"
+                  },
+                  {
+                    "wd": "troth"
+                  },
+                  {
+                    "wd": "vow"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "appointment"
+                  },
+                  {
+                    "wd": "arrangement"
+                  },
+                  {
+                    "wd": "commitment"
+                  },
+                  {
+                    "wd": "engagement"
+                  },
+                  {
+                    "wd": "obligation"
+                  }
+                ],
+                [
+                  {
+                    "wd": "agreement"
+                  },
+                  {
+                    "wd": "compact"
+                  },
+                  {
+                    "wd": "contract"
+                  },
+                  {
+                    "wd": "covenant"
+                  }
+                ],
+                [
+                  {
+                    "wd": "assurance"
+                  },
+                  {
+                    "wd": "guarantee"
+                  },
+                  {
+                    "wd": "guaranty"
+                  },
+                  {
+                    "wd": "undertaking"
+                  }
+                ],
+                [
+                  {
+                    "wd": "bail"
+                  },
+                  {
+                    "wd": "bond"
+                  },
+                  {
+                    "wd": "deposit"
+                  },
+                  {
+                    "wd": "gage"
+                  },
+                  {
+                    "wd": "pawn"
+                  },
+                  {
+                    "wd": "security"
+                  },
+                  {
+                    "wd": "token"
+                  },
+                  {
+                    "wd": "warranty"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "5",
+              "dt": [
+                [
+                  "text",
+                  "a statement of what to do that must be obeyed by those concerned "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "the troops waited for their commanding officer to give the {it}word{/it}"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "behest"
+                  },
+                  {
+                    "wd": "charge"
+                  },
+                  {
+                    "wd": "command"
+                  },
+                  {
+                    "wd": "commandment"
+                  },
+                  {
+                    "wd": "decree"
+                  },
+                  {
+                    "wd": "dictate"
+                  },
+                  {
+                    "wd": "direction"
+                  },
+                  {
+                    "wd": "directive"
+                  },
+                  {
+                    "wd": "do"
+                  },
+                  {
+                    "wd": "edict"
+                  },
+                  {
+                    "wd": "imperative"
+                  },
+                  {
+                    "wd": "injunction"
+                  },
+                  {
+                    "wd": "instruction"
+                  },
+                  {
+                    "wd": "order"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "demand"
+                  },
+                  {
+                    "wd": "requirement"
+                  }
+                ],
+                [
+                  {
+                    "wd": "mandate"
+                  }
+                ],
+                [
+                  {
+                    "wd": "countermand"
+                  },
+                  {
+                    "wd": "counterorder"
+                  }
+                ],
+                [
+                  {
+                    "wd": "law"
+                  },
+                  {
+                    "wd": "precept"
+                  },
+                  {
+                    "wd": "prescript"
+                  },
+                  {
+                    "wd": "prescription"
+                  },
+                  {
+                    "wd": "rule"
+                  }
+                ],
+                [
+                  {
+                    "wd": "ordinance"
+                  },
+                  {
+                    "wd": "regulation"
+                  },
+                  {
+                    "wd": "statute"
+                  }
+                ]
+              ],
+              "near_list": [
+                [
+                  {
+                    "wd": "appeal"
+                  },
+                  {
+                    "wd": "entreaty"
+                  },
+                  {
+                    "wd": "petition"
+                  },
+                  {
+                    "wd": "plea"
+                  },
+                  {
+                    "wd": "urging"
+                  }
+                ],
+                [
+                  {
+                    "wd": "proposal"
+                  },
+                  {
+                    "wd": "recommendation"
+                  },
+                  {
+                    "wd": "suggestion"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "6",
+              "dt": [
+                [
+                  "text",
+                  "information or opinion that is widely disseminated without any authority or confirmation of accuracy "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "don't tell anyone I told you about the shake-up, but that's the {it}word{/it} right now"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "buzz"
+                  },
+                  {
+                    "wd": "dish"
+                  },
+                  {
+                    "wd": "gossip"
+                  },
+                  {
+                    "wd": "hearsay"
+                  },
+                  {
+                    "wd": "noise"
+                  },
+                  {
+                    "wd": "report"
+                  },
+                  {
+                    "wd": "rumor"
+                  },
+                  {
+                    "wd": "scuttlebutt"
+                  },
+                  {
+                    "wd": "talk"
+                  },
+                  {
+                    "wd": "tattle"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "tale"
+                  },
+                  {
+                    "wd": "whisper"
+                  },
+                  {
+                    "wd": "whispering"
+                  }
+                ],
+                [
+                  {
+                    "wd": "hint"
+                  },
+                  {
+                    "wd": "intimation"
+                  },
+                  {
+                    "wd": "rumbling"
+                  }
+                ],
+                [
+                  {
+                    "wd": "disinformation"
+                  },
+                  {
+                    "wd": "propaganda"
+                  }
+                ],
+                [
+                  {
+                    "wd": "urban legend",
+                    "wvrs": [
+                      {
+                        "wvl": "also",
+                        "wva": "urban myth"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "wd": "dirt"
+                  },
+                  {
+                    "wd": "scandal"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "7",
+              "dt": [
+                [
+                  "text",
+                  "a word or phrase that must be spoken by a person in order to pass a guard "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "{ldquo}What's the {it}word{/it}?{rdquo} demanded the sentry"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "countersign"
+                  },
+                  {
+                    "wd": "password"
+                  },
+                  {
+                    "wd": "watchword"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "shibboleth"
+                  },
+                  {
+                    "wd": "sign"
+                  }
+                ],
+                [
+                  {
+                    "wd": "signal"
+                  }
+                ],
+                [
+                  {
+                    "wd": "hint"
+                  },
+                  {
+                    "wd": "indication"
+                  }
+                ],
+                [
+                  {
+                    "wd": "parole"
+                  }
+                ]
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            "sense",
+            {
+              "sn": "8",
+              "dt": [
+                [
+                  "text",
+                  "an often stated observation regarding something from common experience "
+                ],
+                [
+                  "vis",
+                  [
+                    {
+                      "t": "are there truer {it}words{/it} than {ldquo}never look a gift horse in the mouth{rdquo}?"
+                    }
+                  ]
+                ]
+              ],
+              "syn_list": [
+                [
+                  {
+                    "wd": "adage"
+                  },
+                  {
+                    "wd": "aphorism"
+                  },
+                  {
+                    "wd": "apothegm"
+                  },
+                  {
+                    "wd": "byword"
+                  },
+                  {
+                    "wd": "epigram"
+                  },
+                  {
+                    "wd": "maxim"
+                  },
+                  {
+                    "wd": "proverb"
+                  },
+                  {
+                    "wd": "saw"
+                  },
+                  {
+                    "wd": "saying"
+                  },
+                  {
+                    "wd": "sententia"
+                  }
+                ]
+              ],
+              "rel_list": [
+                [
+                  {
+                    "wd": "bromide"
+                  },
+                  {
+                    "wd": "cliché",
+                    "wvrs": [
+                      {
+                        "wvl": "also",
+                        "wva": "cliche"
+                      }
+                    ]
+                  },
+                  {
+                    "wd": "commonplace"
+                  },
+                  {
+                    "wd": "platitude"
+                  },
+                  {
+                    "wd": "wheeze"
+                  }
+                ],
+                [
+                  {
+                    "wd": "expression"
+                  },
+                  {
+                    "wd": "felicity"
+                  }
+                ],
+                [
+                  {
+                    "wd": "axiom"
+                  },
+                  {
+                    "wd": "motto"
+                  },
+                  {
+                    "wd": "precept"
+                  },
+                  {
+                    "wd": "truism"
+                  },
+                  {
+                    "wd": "truth"
+                  }
+                ],
+                [
+                  {
+                    "wd": "formula"
+                  }
+                ],
+                [
+                  {
+                    "wd": "comment"
+                  },
+                  {
+                    "wd": "note"
+                  },
+                  {
+                    "wd": "reflection"
+                  },
+                  {
+                    "wd": "remark"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "shortdef": [
+    "a pronounceable series of letters having a distinct meaning especially in a particular field",
+    "something that is said",
+    "a report of recent events or facts not previously known"
+  ]
+}
